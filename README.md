@@ -1,7 +1,4 @@
-# space_invaders
-A simple video-game.
-
-# How to Play
+# How to Play Space Invaders
 ## On a Browser:
 Visit https://devagio.itch.io/space-invaders (or click the website link). After the game loads, click on 'Ready to Play!'
 
