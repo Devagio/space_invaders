@@ -14,3 +14,5 @@ Shoot down as many UFO's as you can before any UFO touches your spaceship.
 # Controls
 - Use right and left arrows to move you spaceship.
 - Use spacebar to shoot.
+
+![Screenshot](Screenshot.png?raw=true)
