@@ -1,11 +1,11 @@
 # How to Play Space Invaders
-## On a Browser:
+## On a browser (works best on Chrome):
 - Visit https://devagio.itch.io/space-invaders (or click the website link). 
 - After the game loads, click on 'Ready to Play!'
 
 ## As an executible:
 - Install python.
-- pip library pygame.
+- Pip install pygame.
 - Run main.py.
 
 # Objective
